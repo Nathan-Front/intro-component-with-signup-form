@@ -64,6 +64,9 @@ form{
     flex-direction: column;
     justify-content: center;
 }
+label{
+    display: none;
+}
 form>input{
     margin: 5% 0 0 0;
     padding: 4% 0;
